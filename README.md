@@ -19,6 +19,8 @@ The Basic Local Alignment Search Tool (BLAST; Altschul et al., 1990) is a powerf
 ## ⚙️ Run
 The script has two required inputs: the library file containing the **raw long-reads or the genome**, and the **reference sequence**, both in fasta format. 
 >
+The user must have the BLASTn installed in their environment. 
+>
 To run the bash script:
 >
 ```bash
