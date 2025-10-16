@@ -24,6 +24,7 @@ The user must have the BLASTn installed in their environment.
 To run the bash script:
 >
 ```bash
+chmod +x rdna_array.sh
 ./rdna_array.sh
 ```
 >
